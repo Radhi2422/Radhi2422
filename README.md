@@ -16,16 +16,15 @@ I build scalable web applications using the MERN Stack and ASP.NET Core.
 - Docker
 - REST APIs
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning and building
 - System Design
 - TeamCenter PLM
 - CI/CD
 - Kubernetes
 
 ### 📫 Connect with Me
-LinkedIn
-Portfolio
-Email
+LinkedIn:https://www.linkedin.com/in/radhika-mittal-18b30a240/
+Email:radhikamitt2404@gmail.com
 
 ---
 ⭐ Always learning and building real-world applications.

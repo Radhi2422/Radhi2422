@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Radhika Mittal
 
-<!--
-**Radhi2422/Radhi2422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+I build scalable web applications using the MERN Stack and ASP.NET Core.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- ASP.NET Core MVC
+- C#
+- Git & GitHub
+- Docker
+- REST APIs
+
+### 🌱 Currently Learning
+- System Design
+- TeamCenter PLM
+- CI/CD
+- Kubernetes
+
+### 📫 Connect with Me
+LinkedIn
+Portfolio
+Email
+
+---
+⭐ Always learning and building real-world applications.

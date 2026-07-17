@@ -4,8 +4,8 @@ Developer .
 
 Currently: Building myself, Previously worked at Hansa solution(Hyderabad), Automation, Leetcode.
 
-🚀 What I'm Building
-🛒 Inventory Management System: Complete MERN inventory management 
+-🚀 What I'm Building
+-🛒 Inventory Management System: Complete MERN inventory management 
 💻 Coding Platform: Online coding platform with problem solving, code editor, test cases and role-based access.
 📈 Petrochemical Predictive Maintenance: AI-powered dashboard for equipment monitoring, health prediction and maintenance recommendations.
 📊 Stock Exchange Simulator

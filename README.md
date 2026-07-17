@@ -1,14 +1,8 @@
-# Hi, I'm Radhika Mittal 👋
+# Radhika Mittal 👋
 
-Developer passionate about building scalable web applications, AI-powered solutions, and solving real-world problems.
+Developer .
 
-Currently:
-- 🚀 Full Stack Developer
-- 💻 Building MERN & .NET applications
-- 🌱 Learning System Design, DSA & Cloud
-- 🎯 Open to Software Development opportunities
-
----
+Currently: Building myself, Previously worked at Hansa solution(Hyderabad), Automation, Leetcode.
 
 # 🚀 What I'm Building
 

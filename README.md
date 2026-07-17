@@ -4,45 +4,13 @@ Developer .
 
 Currently: Building myself, Previously worked at Hansa solution(Hyderabad), Automation, Leetcode.
 
-# 🚀 What I'm Building
-
-### 🛒 Inventory Management System
-Complete MERN inventory management platform with authentication, role-based access, JWT, product, customer and order management.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
-
----
-
-### 💻 Coding Platform
-Online coding platform with problem solving, code editor, test cases and role-based access.
-
-**Tech Stack**
-
-`React` `Node.js` `MongoDB`
-
----
-
-### 📈 Petrochemical Predictive Maintenance
-AI-powered dashboard for equipment monitoring, health prediction and maintenance recommendations.
-
-**Tech Stack**
-
-`React` `Node.js` `Python` `Machine Learning`
-
----
-
-### 📊 Stock Exchange Simulator
+🚀 What I'm Building
+🛒 Inventory Management System: Complete MERN inventory management 
+💻 Coding Platform: Online coding platform with problem solving, code editor, test cases and role-based access.
+📈 Petrochemical Predictive Maintenance: AI-powered dashboard for equipment monitoring, health prediction and maintenance recommendations.
+📊 Stock Exchange Simulator
 Simulates stock buying/selling using heaps, priority queues and balanced BST.
 
-**Tech Stack**
-
-`JavaScript` `Node.js`
-
----
-
-# 💻 Tech Stack
 
 ```text
 Languages       JavaScript • C# • SQL • HTML • CSS

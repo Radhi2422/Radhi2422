@@ -11,23 +11,25 @@ Currently: Building myself, Previously worked at Hansa solution(Hyderabad), Auto
 📊 Stock Exchange Simulator
 Simulates stock buying/selling using heaps, priority queues and balanced BST.
 
+----
+**Languages**       JavaScript • C++
 
-```text
-Languages       JavaScript • C# • SQL • HTML • CSS
+**Backend**         Node.js • Express.js • ASP.NET Core • Web API
 
-Frontend        React • Vite • Bootstrap • Tailwind CSS
+**Caching**         Redis
 
-Backend         Node.js • Express.js • ASP.NET Core • Web API
+**Authentication**  JWT • RBAC
 
-Database        MongoDB • SQL Server
+**Event Streaming** Apache Kafka • KafkaJS
 
-Authentication  JWT • Role-Based Authorization
+**Data Processing** Apache Flink • Stream Processing • Real-Time Analytics
 
-Tools           Git • GitHub • Docker • Postman • VS Code
+**Tools**           Git • GitHub • Docker • Postman • VS Code
 
-Cloud           Azure • Render • Vercel
+**Cloud**           Azure • Render • Vercel
 
-Learning        System Design • DSA • CI/CD
-```
+**Architecture**    Event-Driven Architecture • REST APIs • Microservices
+
+**Learning**        System Design • DSA • CI/CD • Distributed Systems
 
 ---
